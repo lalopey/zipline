@@ -169,7 +169,6 @@ REQ_UPPER_BOUNDS = {
     'bcolz': '<1',
     'pandas': '<=0.22',
     'networkx': '<2.0',
-    'tables': '<=3.4.3',
 }
 
 
